@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://www.nrk.no/norge/toppsaker.rss",
+        "url": "https://www.nrk.no/toppsaker.rss",
         "outlet": "NRK",
         "delicateURLs": false,
         "redirectLinks": false
@@ -12,26 +12,50 @@
         "redirectLinks": false
     },
     {
+        "url": "https://www.vg.no/rss/feed/?categories=1072",
+        "outlet": "VG",
+        "delicateURLs": false,
+        "redirectLinks": false
+    },
+    {
         "url": "http://www.aftenposten.no/rss/?kat=norge&img=w780c169",
         "outlet": "Aftenposten",
         "delicateURLs": false,
         "redirectLinks": false
     },
     {
-        "url": "http://tv2.no/rss/tv2nyhetene-innenriks-siste.xml",
-        "outlet": "TV 2",
+        "url": "http://www.aftenposten.no/rss/?kat=politikk&img=w780c169",
+        "outlet": "Aftenposten",
         "delicateURLs": false,
         "redirectLinks": false
     },
     {
-        "url": "http://www.dn.no/rss/magasinet",
-        "outlet": "Dagens Næringsliv",
+        "url": "http://www.klassekampen.no/section/rssfeed/1005&template=rss&mime=xml",
+        "outlet": "Klassekampen",
         "delicateURLs": false,
         "redirectLinks": false
     },
     {
-        "url": "https://www.dn.no/rss/nyheter/",
-        "outlet": "AP",
+        "url": "https://www.aftenbladet.no/rss",
+        "outlet": "Stavanger Aftenblad",
+        "delicateURLs": false,
+        "redirectLinks": false
+    },
+    {
+        "url": "https://www.bt.no/rss",
+        "outlet": "Bergens Tidende",
+        "delicateURLs": false,
+        "redirectLinks": false
+    },
+    {
+        "url": "https://fiskeribladet.no/rss/rss.asp",
+        "outlet": "Fiskeribladet",
+        "delicateURLs": false,
+        "redirectLinks": false
+    },
+    {
+        "url": "https://www.fvn.no/rss",
+        "outlet": "Fædrelandsvennen",
         "delicateURLs": false,
         "redirectLinks": false
     }
