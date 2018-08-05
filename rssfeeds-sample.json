@@ -12,6 +12,12 @@
         "redirectLinks": false
     },
     {
+        "url": "https://www.dagbladet.no/rss/nyheter",
+        "outlet": "Dagbladet",
+        "delicateURLs": false,
+        "redirectLinks": false
+    },
+    {
         "url": "https://www.vg.no/rss/feed/?categories=1072",
         "outlet": "VG",
         "delicateURLs": false,
