@@ -9,19 +9,19 @@
         "url": "https://www.vg.no/rss/feed/?categories=1069",
         "outlet": "VG",
         "delicateURLs": false,
-        "redirectLinks": false
-    },
-    {
-        "url": "https://www.dagbladet.no/rss/nyheter",
-        "outlet": "Dagbladet",
-        "delicateURLs": false,
         "redirectLinks": true
     },
     {
         "url": "https://www.vg.no/rss/feed/?categories=1072",
         "outlet": "VG",
         "delicateURLs": false,
-        "redirectLinks": false
+        "redirectLinks": true
+    },
+    {
+        "url": "https://www.dagbladet.no/rss/nyheter",
+        "outlet": "Dagbladet",
+        "delicateURLs": false,
+        "redirectLinks": true
     },
     {
         "url": "http://www.aftenposten.no/rss/?kat=norge&img=w780c169",
@@ -60,10 +60,16 @@
         "redirectLinks": false
     },
     {
-       "url": "http://filternyheter.no/feed/",
-       "outlet": "Filter Nyheter",
-       "delicateURLs": false,
-       "redirectLinks": false
+        "url": "http://www.dn.no/rss/nyheter",
+        "outlet": "Dagens Næringsliv",
+        "delicateURLs": false,
+        "redirectLinks": false
+    },
+   {
+        "url": "http://filternyheter.no/feed/",
+        "outlet": "Filter Nyheter",
+        "delicateURLs": false,
+        "redirectLinks": false
     },
     {
         "url": "https://www.fvn.no/rss",
