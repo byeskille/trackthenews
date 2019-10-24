@@ -76,5 +76,11 @@
         "outlet": "Fædrelandsvennen",
         "delicateURLs": false,
         "redirectLinks": false
+    },
+    {
+        "url": "https://www.faktisk.no/atom.xml",
+        "outlet": "Faktisk.no",
+        "delicateURLs": false,
+        "redirectLinks": false
     }
 ]
