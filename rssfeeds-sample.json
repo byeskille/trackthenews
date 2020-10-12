@@ -82,5 +82,11 @@
         "outlet": "Faktisk.no",
         "delicateURLs": false,
         "redirectLinks": false
+    },
+    {
+        "url": "https://e24.no/rss",
+        "outlet": "E24",
+        "delicateURLs": false,
+        "redirectLinks": false
     }
 ]
